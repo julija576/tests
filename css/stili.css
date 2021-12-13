@@ -9,7 +9,7 @@
 .kaste {    
   border-style: solid;
   border-color: blue;
-  {background-color:#5F9EA0 }
+  background-color:#5F9EA0;
   padding: 10%;
   margin: 50px 20px 50px 20px;
 }
