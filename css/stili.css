@@ -4,9 +4,6 @@
   background-color: lightblue;
   padding: 10%;
   margin: 30%;
-  img { 
-    width:200px;
-    }
 }
 
 .kaste {    
@@ -15,5 +12,9 @@
   background-color: lightblue;
   padding: 10px 10px 10px 10px;
   margin: 50px 20px 50px 20px;
+}
+.bilde 1 {
+  max-width:40%;
+  height:auto;
 }
 
