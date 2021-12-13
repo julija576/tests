@@ -1,5 +1,4 @@
-.kaste {
-    .pirmakaste {    
+  .pirmakaste {    
   border-style: solid;
   border-color: green;
   background-color: lightblue;
@@ -14,4 +13,4 @@
   padding: 10px 10px 10px 10px;
   margin: 50px 20px 50px 20px;
 }
-}
+
